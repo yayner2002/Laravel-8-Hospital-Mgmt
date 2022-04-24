@@ -8,8 +8,8 @@
 - Laravel 8
 
 ## Screenshot
-![user page](/public/assets/img/userpage.png ?raw=true "user screenshot")
-![admin page](/public/assets/img/adminpage.png ?raw=true "admin screenshot")
+![user page](/public/assets/img/userpage.png?raw=true "user screenshot")
+![admin page](/public/assets/img/adminpage.png?raw=true "admin screenshot")
 ## Live Demo
 
 [Live Demo Link](https://yayner2002.github.io/Laravel-8-Hospital-Mgmt/)
